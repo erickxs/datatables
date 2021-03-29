@@ -1,0 +1,68 @@
+.twitterBlanco,
+.githubBlanco,
+.youtubeBlanco,
+.twitchBlanco,
+.xboxBlanco {
+  color: #6c757d;
+}
+
+.twitterBlanco:hover,
+.githubBlanco:hover,
+.youtubeBlanco:hover,
+.twitchBlanco:hover,
+.xboxBlanco:hover {
+  color: #ffffff !important;
+}
+
+.twitterNegro,
+.githubNegro,
+.youtubeNegro,
+.twitchNegro,
+.xboxNegro {
+  color: #6c757d;
+}
+
+.twitterNegro:hover,
+.githubNegro:hover,
+.youtubeNegro:hover,
+.twitchNegro:hover,
+.xboxNegro:hover {
+  color: #000000 !important;
+}
+
+.twitterColor,
+.githubColor,
+.youtubeColor,
+.twitchColor,
+.xboxColor {
+  color: #6c757d;
+}
+
+.twitterColor:hover {
+  color: #1da1f2 !important;
+}
+
+.githubColor:hover {
+  color: #ffffff !important;
+}
+
+.youtubeColor:hover {
+  color: #ff0000 !important;
+}
+
+.twitchColor:hover {
+  color: #6441a5 !important;
+}
+
+.xboxColor:hover {
+  color: #52b043 !important;
+}
+
+footer .social {
+  font-size: 2rem;
+}
+
+footer .social a {
+  -webkit-transition: all 0.5s ease-in-out;
+  transition: all 0.5s ease-in-out;
+}
